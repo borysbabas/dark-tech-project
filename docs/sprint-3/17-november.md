@@ -28,6 +28,11 @@
 ## Wat gaan we doen?
 
 - Adviesrapport schrijven (eerste versie)
+  - Samenvatting - Joshua
+  - Introductie - Borys
+  - Dark: provocatype als instrument - Raul
+  - Van dark naar light - Yassin
+  - Advies - Timo
 - Field testing afmaken
 - Huidige behuizing uitprinten
 - Nieuwe behuizing voor 4 vingers
