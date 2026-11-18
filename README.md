@@ -1,6 +1,6 @@
 # The controlling wearable
 
-![Greep H1 website](docs/thumbnail.png)
+![Greep H1](public/logo.svg)
 
 Dark Tech project, semester 1 2026. Greep H1 is a provocatype: a glove that bends your index finger for you, pulled
 by a string from a servo in a module on your forearm. This repository holds the project documentation and the Greep
